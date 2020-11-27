@@ -1,0 +1,15 @@
+{
+  "name": "mikucha",
+  "version": "1.0.0",
+  "description": "Bot mikucha",
+  "main": "mikucha.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Newjg",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.0.0",
+    "request": "^2.88.0"
+  }
+}
